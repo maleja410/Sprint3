@@ -52,4 +52,4 @@ CREATE TABLE credentials(
   password TEXT NOT NULL
 );
 
-INSERT INTO credentials (name,user,password) VALUES ('EMAIL_APP','mchingate@uninorte.edu.co', 'Prec.2012');
+INSERT INTO credentials (name,user,password) VALUES ('EMAIL_APP','micorreo@uninorte.edu.co', '*******');
